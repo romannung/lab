@@ -1,3 +1,1 @@
-file created
-file changed to make conflict
-file changed to resolve conflict
+File changed to release
